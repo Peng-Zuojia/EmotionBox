@@ -5,14 +5,14 @@ Individual Project for Creative Design course 2021
 
 The code is under src/main.cpp.
 
-After building and uploading the program to the embedded system, "Press me!" will show on the screen.
+After building and uploading the program to Arduino, "Press me!" will show on the screen.
 
 ![](/pic/Press_me.jpeg)
 
 When the blue button is pressed, a smiley face will appear on the screen.
 ![](/pic/Happy_face.jpeg)
 
-When the red button is pressed, a scary face will appear on the screen.
+When the red button is pressed, a scared face will appear on the screen.
 ![](/pic/Scary_face.jpeg)
 
 
