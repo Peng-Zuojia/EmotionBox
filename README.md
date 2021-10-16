@@ -9,7 +9,7 @@ After building and uploading the program to the embedded system, "Press me!" wil
 
 ![](/pic/Press_me.jpeg)
 
-When the blue button is pressed, a smily face will appear on the screen.
+When the blue button is pressed, a smiley face will appear on the screen.
 ![](/pic/Happy_face.jpeg)
 
 When the red button is pressed, a scary face will appear on the screen.
